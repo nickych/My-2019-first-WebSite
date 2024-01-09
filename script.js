@@ -6,6 +6,7 @@ const userBbox = () => {
 
 };
 
+
 const name = document.getElementById("nameInput");
 
 console.log("submitted name: ", name);

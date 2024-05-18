@@ -9,7 +9,6 @@ const name = document.getElementById("nameInput");
 
 console.log("submitted name: ", name);
 
-
 const userBbox = () => {
     let boxS = document.getElementById("userr_body"); //gets the information from an HTML element
     user-box.addEventListener("submit", (event) => {

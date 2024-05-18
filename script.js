@@ -3,7 +3,6 @@ const userBbox = () => {
     user-box.addEventListener("submit", (event) => {
             event.preventDefault(); //prevent the userBbox from submiting 
         } 
-
 };
 
 const name = document.getElementById("nameInput");

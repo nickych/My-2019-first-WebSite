@@ -15,7 +15,6 @@ const userBbox = () => {
     user-box.addEventListener("submit", (event) => {
             event.preventDefault(); //prevent the userBbox from submiting 
         } 
-
 };
 
 const nameInput = document.getElementById("anyNameInput");

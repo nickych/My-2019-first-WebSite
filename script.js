@@ -17,5 +17,4 @@ const userBbox = () => {
 
 const nameInput = document.getElementById("anyNameInput");
 console.log("submitted name: ", nameInput);
-
 //Next 
